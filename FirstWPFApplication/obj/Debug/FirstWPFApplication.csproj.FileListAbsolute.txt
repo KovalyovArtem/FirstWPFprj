@@ -1,0 +1,15 @@
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\bin\Debug\FirstWPFApplication.exe.config
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\bin\Debug\FirstWPFApplication.exe
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\bin\Debug\FirstWPFApplication.pdb
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\obj\Debug\FirstWPFApplication.csprojAssemblyReference.cache
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\obj\Debug\MainWindow.g.cs
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\obj\Debug\App.g.cs
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\obj\Debug\FirstWPFApplication_MarkupCompile.cache
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\obj\Debug\FirstWPFApplication_MarkupCompile.lref
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\obj\Debug\MainWindow.baml
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\obj\Debug\FirstWPFApplication.g.resources
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\obj\Debug\FirstWPFApplication.Properties.Resources.resources
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\obj\Debug\FirstWPFApplication.csproj.GenerateResource.cache
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\obj\Debug\FirstWPFApplication.csproj.CoreCompileInputs.cache
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\obj\Debug\FirstWPFApplication.exe
+D:\Программирование\OlapleshAcademyPrj\FirstWPFApplication\FirstWPFApplication\obj\Debug\FirstWPFApplication.pdb
